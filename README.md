@@ -112,9 +112,9 @@ Real-time execution on the Boolean Board (Spartan-7 FPGA). Detailed simulation w
     <td align="center"><b>🎮 Hardware Pong (Lab 4)</b></td>
   </tr>
   <tr>
-    <td><img src="20251103_171210.jpg" width="280px"></td>
-    <td><img src="partD_extra_highB.jpg" width="280px"></td>
-    <td><img src="IMG_20260114_184435.jpg" height = "140px" width="280px"></td>
+    <td><img src="photos/20251103_171210.jpg" width="280px"></td>
+    <td><img src="photos/partD_extra_highB.jpg" width="280px"></td>
+    <td><img src="photos/IMG_20260114_184435.jpg" height = "140px" width="280px"></td>
   </tr>
 </table>
 
