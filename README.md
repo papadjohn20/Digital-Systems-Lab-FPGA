@@ -77,23 +77,23 @@ This repository documents my journey through digital systems design, starting fr
 ### 🔢 1. 7-Segment Display Controller
 **Objective:** Designing a modular controller to drive an 7-segment display using time-multiplexing.
 * 🛠️ **Features:** Clock dividers for refresh rates, Debouncer module and BCD-to-7Segment decoders.
-* `📂 Directory:` [/Seven_Segment_Display](./Seven-Segment-Display)
+* `📂 Directory:` [/Seven_Segment_Display](./Seven_Segment_Display)
 
 ### 📡 2. UART Communication Protocol
 **Objective:** Implementation of a Universal Asynchronous Receiver-Transmitter (UART) from scratch.
 * ⚡ **Features:** Custom Baud Rate Generator, Start/Stop bit synchronization, and FIFO buffering.
-* `📂 Directory:` [/UART_Protocol](./UART-Protocol)
+* `📂 Directory:` [/UART_Protocol](./UART_Protocol)
 
 ### 📺 3. HDMI controller
 **Objective:** Generating high-definition video signals using precise timing controllers.
 * 🖼️ **Features:** H-Sync/V-Sync generation, Pixel Clock management, and RGB patterns.
-* `📂 Directory:` [/HDMI_Controller](./HDMI-Controller)
+* `📂 Directory:` [/HDMI_Controller](./HDMI_Controller)
 
 ### 🎮 4. Hardware-Based Pong Game
 **Objective:** A fully functional, real-time video game implemented entirely in hardware logic.
 * 🕹️ **Logic:** Sprite generation, collision detection, and scoring system.
 * 🎨 **Rendering:** On-the-fly pixel generation for dual-player control.
-* `📂 Directory:` [/Pong_Game](./Pong-Game)
+* `📂 Directory:` [/Pong_Game](./Pong_Game)
 
 ---
 
