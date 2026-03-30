@@ -4,7 +4,7 @@
 
 </div>
 
-A comprehensive collection of hardware projects from ECE340-Digital Systems Lab developed using **Verilog**, focusing on digital logic design, communication protocols, and real-time video processing.
+A comprehensive collection of hardware projects from ECE333-Digital Systems Lab developed using **Verilog**, focusing on digital logic design, communication protocols, and real-time video processing.
 
 <div align="center">
 
