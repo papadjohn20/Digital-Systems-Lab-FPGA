@@ -59,7 +59,7 @@ A comprehensive collection of hardware projects from ECE333-Digital Systems Lab 
 
 </div>
 
-This repository documents my journey through digital systems design, starting from basic IO control to complex real-time graphics engines implemented on **Xilinx Spartan-7 FPGA (XC7S50)**.
+This repository documents our journey through digital systems design, starting from basic IO control to complex real-time graphics engines implemented on **Xilinx Spartan-7 FPGA (XC7S50)**.
 
 **Each project folder contains a complete package that includes:**
 * **Source Code:** All Verilog and XDC constraint files.
