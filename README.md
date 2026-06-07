@@ -124,7 +124,7 @@ Real-time execution on the Boolean Board (Spartan-7 FPGA). Detailed simulation w
 
 ### ✨ Bonus Features & Integration (Labs 2-4)
 </div>
-I have extended the basic requirements for the majority of the assignments, for example in Lab4:
+We have extended the basic requirements for the majority of the assignments, for example in Lab4:
 
 * **Lab 4 (Final Integration - The Pong Game):** This project serves as a "Full System Integration" where I combined elements from all previous labs:
     * **Advanced Gameplay:** Implemented multiplayer 1v1 mode, dynamic puck speed scaling.
